@@ -8,7 +8,7 @@ Traversal loop filtering `null` `undefined` `''` `[]` `{}` in object or array.
 # npm
 npm i object-filter-null
 # yarn
-yarn install object-filter-null
+yarn add object-filter-null
 ```
 
 ## Usage
