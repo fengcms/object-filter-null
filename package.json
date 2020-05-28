@@ -1,6 +1,6 @@
 {
   "name": "object-filter-null",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Traversal loop filtering `null` `undefined` `''` `[]` `{}` in object or array.",
   "main": "dist/main.js",
   "scripts": {
